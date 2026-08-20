@@ -1,6 +1,6 @@
 # 👩🏻‍💻Victor Eduardo
 
-**`Desenvolvedor Java Junior`**
+**`Desenvolvedor Java Iniciante`**
 
   Me chamo Victor Eduardo dos Santos Alexandrini, tenho 18 anos e sou natural de Curitiba. Iniciei meus estudos em programação ainda no final do ensino médio, por meio da plataforma Curso em Vídeo, onde tive meu primeiro contato com desenvolvimento web através de HTML e CSS.
   Desde então, venho ampliando meus conhecimentos na área de tecnologia, buscando evoluir tanto na prática quanto na teoria. Atualmente, estou cursando o segundo ano de Ciência da Computação pela Faculdade Estácio, onde tenho aprofundado meus estudos em lógica de programação, estruturas de dados e desenvolvimento de sistemas.
