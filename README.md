@@ -1,4 +1,4 @@
-w# 👩🏻‍💻Victor Eduardo
+# 👩🏻‍💻Victor Eduardo
 
 **`Desenvolvedor Java Iniciante`**
 
